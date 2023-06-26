@@ -28,8 +28,8 @@ export default ({
     UI_Property_Spirit: '快乐',
 
     UI_Title_Remake: '人生重开模拟器',
-    UI_Title_Subsequent: 'aaaaaaaabbbbbccc本游戏源码来自github知名开源项目，版权归作者所有\n游戏中内容设定仅供娱乐，不代表任何阿里云立场',
-    UI_Remake: '↻立即重开',
+    UI_Title_Subsequent: '本游戏源码来自github知名开源项目，版权归作者所有\n游戏中内容设定仅供娱乐，不代表任何阿里云立场',
+    UI_Remake: '↻立即重开123',
     UI_Thanks: '感谢',
     UI_Achievement: '成就',
     UI_Cyber_Theme_Art_Design: 'UI 设计 by 晰晰',
